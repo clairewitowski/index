@@ -1,0 +1,50 @@
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 5;
+	display: block;
+	width: 100px;
+	text-align: center;
+	float: right;
+	background-color: pink; 
+	color: darkpurple;
+	font-family: Georgia;
+	text-decoration: none;
+	font-size: 20;
+}
+
+a:link {
+	color: hotpink;
+	text-decoration: none;
+}
+
+.container {
+	font-family: Georgia;
+	font-size: 20;
+}
+.name {
+	text-align: center;
+	font-size: 45;
+	color: hotpink;
+}
+.bground {
+	background-color: #FEEFFF;
+}
+.disclaimer {
+	text-align: center;
+}
+.attribute {
+	text-align: center;
+}
+
+.resumeimg {
+	text-align: center;
+	
+}
+.description {
+	text-align: center;
+}
+.border {
+	border: 3px pink solid;
+	padding: 10px;
+}
