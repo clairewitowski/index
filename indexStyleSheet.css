@@ -1,0 +1,107 @@
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 5;
+	display: block;
+	width: 100px;
+	text-align: center;
+	float: right;
+	background-color: pink; 
+	color: darkpurple;
+	font-family: Georgia;
+	text-decoration: none;
+	font-size: 20;
+}
+
+a:link {
+	color: hotpink;
+	text-decoration: none;
+}
+.container {
+	font-family: Georgia;
+	font-size: 20;
+}
+
+.linkedin:hover {
+	background-color: pink;
+	color: white;
+}
+.javacode:hover {
+	background-color: pink;
+	color: white;
+}
+.racketcode:hover {
+	background-color: pink;
+	color: white;
+}
+.name {
+	text-align: center;
+	font-size: 45;
+	color: hotpink;
+	
+}
+.bground {
+	background-color: #FEEFFF;
+}
+.intro {
+	border: 3px pink solid;
+	padding: 10px;
+	
+}
+.aboutwhole {
+	border: 3px pink solid;
+	padding: 10px;
+	
+}
+.projects {
+	border: 3px pink solid;
+	padding: 10px;
+	
+}
+
+.PAN {
+	margin-top: 200px;
+	
+}
+
+.linkedin {
+	font-size: 30;
+	color: black;
+	margin: 30px;
+	text-decoration: none;
+	text-align: center;
+}
+.javacode {
+	font-size: 30;
+	color: black;
+	margin: 30px;
+	text-decoration: none;
+	text-align: center;
+}
+.racketcode {
+	font-size: 30;
+	color: black;
+	margin: 30px;
+	text-decoration: none;
+	text-align: center;
+}
+.javaimages {
+	text-align: center;
+}
+.racketimages {
+	text-align: center;
+}
+.disclaimer {
+	text-align: center;
+}
+.attribute {
+	text-align: center;
+}
+.rocket {
+	text-align: center;
+	font-size: 22;
+}
+.java {
+	text-align: center;
+	font-size: 22;
+}
